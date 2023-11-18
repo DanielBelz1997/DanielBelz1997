@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DanielBelz1997
+- 👀 I’m interested in Full Stack development & penetration testing
+- 🌱 I’m currently learning everything that related to what im intrested in :)
+- 💞️ I’m looking to collaborate on projects from backend point of view (sql & express)
+- 📫 How to reach me: belzdaniel6@gmail.com
